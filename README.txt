@@ -13,7 +13,7 @@ Background image, coin image are created by me.The game is also coded by me.
 -----------------------------------
 
 Contact:
-E-mail: ih999@abv.bg
+E-mail: ih999 [at] abv [dot] bg
 Web Site: http://sn0k3.wordpress.com/
 Twitter: @sn0k3
 
